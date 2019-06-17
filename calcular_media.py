@@ -7,7 +7,3 @@ def aprovacao(nota):
         return "aprovado"
     else:
         return "reprovado"
-
-if __name__ == "__main__":
-    media = media_final(8, 7,  6)
-    print("A média é: ", media)
